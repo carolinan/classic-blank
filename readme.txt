@@ -9,6 +9,10 @@ License URI: LICENSE
 
 A starter theme called classic-blank.
 
+== Description ==
+
+A utility theme for testing block styles without interference from theme styles.
+
 == Changelog ==
 
 = 1.0 - May 12 2015 =
